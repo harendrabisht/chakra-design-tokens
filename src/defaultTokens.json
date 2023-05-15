@@ -1,0 +1,31 @@
+{
+  "buttonHeight": "40px",
+  "action": {
+    "primary": "black",
+    "secondary": "grey"
+  },
+  "button": {
+    "fontFamily": "Arial",
+    "fontWeight": "600",
+    "lineHeight": "120%",
+    "fontSize": "1.333rem",
+    "letterSpacing": "0",
+    "padding": "20px 10px"
+  },
+  "heading1": {
+    "fontFamily": "Noir Std",
+    "fontWeight": "900",
+    "lineHeight": "120%",
+    "fontSize": "3.333rem",
+    "letterSpacing": "0",
+    "color": "grey"
+  },
+  "heading2": {
+    "fontFamily": "Noir Std",
+    "fontWeight": "600",
+    "lineHeight": "120%",
+    "fontSize": "2.0rem",
+    "letterSpacing": "0",
+    "color": "black"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "buttonHeight": "35px",
+  "action": {
+    "primary": "green",
+    "secondary": "green.500"
+  },
+  "button": {
+    "fontFamily": "Segoe UI",
+    "letterSpacing": "1px"
+  },
+  "heading1": {
+    "fontFamily": "Segoe UI",
+    "fontWeight": "900",
+    "lineHeight": "120%",
+    "fontSize": "3.333rem",
+    "letterSpacing": "0",
+    "color": "green"
+  },
+  "heading2": {
+    "fontFamily": "Segoe UI",
+    "color": "blue"
+  }
+}

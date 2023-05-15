@@ -1,0 +1,22 @@
+{
+  "buttonHeight": "25px",
+  "action": {
+    "primary": "brown",
+    "secondary": "orange"
+  },
+  "button": {
+    "fontFamily": "Comic Sans MS"
+  },
+  "heading1": {
+    "fontFamily": "Comic Sans MS",
+    "fontWeight": "900",
+    "lineHeight": "120%",
+    "fontSize": "2.333rem",
+    "letterSpacing": "0",
+    "color": "orange"
+  },
+  "heading2": {
+    "fontFamily": "Comic Sans MS,",
+    "color": "yellow"
+  }
+}
